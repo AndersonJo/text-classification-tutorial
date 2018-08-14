@@ -33,3 +33,7 @@ I used the following models.
 | 20 News | Word frequency vectorization | SVM (Linear) | 0.85 | 0.85 | 0.85 |
 | 20 News | Word frequency vectorization | Deep Learning (FC Network) | 0.84 | 0.83 | 0.83 |
 
+# Code Contribution
+
+We need your contribution!
+Please send PR!
